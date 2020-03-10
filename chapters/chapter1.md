@@ -7,11 +7,11 @@ git clone \<url\<
 
 ## commandes de mise à jour
 
-1. `git add` sert à ajouter 
+1. `git add` sert à ajouter le fichier dans la zone d'index
 
-2. git commit
+2. `git commit` sert à valider les modifs
 
-3. git push
+3. `git push sert` à mettre a jour --pousser-- la version du travail sur le dépôt.
 
 ## COmmandes utilitaires
 
