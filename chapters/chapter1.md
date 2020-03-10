@@ -1,5 +1,6 @@
 # les basiques
 
+Dans ce chapitre sont présenté les commandes usuelles de git.
 ## Récup d'un projet
 
 git clone \<url\<
@@ -17,5 +18,4 @@ git clone \<url\<
 
 1. `git mv`
 2. `git rm`
-
 
